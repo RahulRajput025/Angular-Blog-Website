@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "dashboard-blog": {
+      "hosting": {
+        "blog-app": [
+          "dashboard-blog"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "dashboard-blog"
+  }
+}
