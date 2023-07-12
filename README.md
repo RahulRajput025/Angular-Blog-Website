@@ -1,4 +1,7 @@
 # BlogApp
+This is made with Angular and it is connected with google firestore database. 
+It also contains admin panel where we can Add, Delete, View or Delete the contents.
+The admin panel contains Authentication process by login and Password and Google firestore authentication is used for this.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
 
